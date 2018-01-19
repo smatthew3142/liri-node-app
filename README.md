@@ -1,6 +1,6 @@
 # liri-node-app
 
-##LIRI Bot 
+## LIRI Bot 
 
 This assignment was completed for Rutgers Coding Bootcamp. The assignment required us to create a SIRI-like bot that would take in command lines in Terminal.
 LIRI can be asked to show tweets, search for song information, search for movie information, or do a special predetermined task.
@@ -11,8 +11,12 @@ LIRI can be asked to show tweets, search for song information, search for movie 
   * Run 'npm install' in Terminal or GitBash
   * Run 'node liri.js' with one of the following commands
 
+
+
 `node liri.js my-tweets`
   * Displays my last 20 tweets and the date they were created 
+
+
 
 `node liri.js spotify-this-song <song name>`
   * Displays the following
@@ -23,6 +27,8 @@ LIRI can be asked to show tweets, search for song information, search for movie 
     
   * If no song is requested, you will see information about Ace of Base's "The Sign".
 
+ 
+ 
  `node liri.js movie-this <movie name>`
   * Displays the following
     * Movie Title
@@ -36,6 +42,8 @@ LIRI can be asked to show tweets, search for song information, search for movie 
     
   * If no movie is requested, you will see information about "Gladiator".
 
+  
+  
   `node liri.js do-what-it-says`
   * Takes information from random.txt and runs it through the spotify command
 
@@ -54,6 +62,6 @@ Sublime Text - Text Editor
 Sarika Matthew
 
 ### Instructors
-John Dougherty
-Tom Keel - TA
-Evan Arbeitman - TA
+- John Dougherty
+- Tom Keel - TA
+- Evan Arbeitman - TA
