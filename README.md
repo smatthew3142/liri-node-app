@@ -13,13 +13,13 @@ LIRI can be asked to show tweets, search for song information, search for movie 
 
 
 
-#### Twitter Command 
+### Twitter Command 
  `node liri.js my-tweets`
   * Displays my last 20 tweets and the date they were created 
 
 
 
-#### Spotify Command 
+### Spotify Command 
  `node liri.js spotify-this-song <song name>`
   * Displays the following
     * Artist
@@ -31,7 +31,7 @@ LIRI can be asked to show tweets, search for song information, search for movie 
 
  
  
- #### OMdB Command 
+ ### OMdB Command 
   `node liri.js movie-this <movie name>`
   * Displays the following
     * Movie Title
@@ -47,7 +47,7 @@ LIRI can be asked to show tweets, search for song information, search for movie 
 
   
   
-  #### Read File Command 
+  ### Read File Command 
    `node liri.js do-what-it-says`
   * Takes information from random.txt and runs it through the spotify command
 
