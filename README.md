@@ -1,12 +1,12 @@
 # liri-node-app
 
-LIRI Bot 
+##LIRI Bot 
 
 This assignment was completed for Rutgers Coding Bootcamp. The assignment required us to create a SIRI-like bot that would take in command lines in Terminal.
 LIRI can be asked to show tweets, search for song information, search for movie information, or do a special predetermined task.
 
 
-##Getting Started
+## Getting Started
   * Clone repo.
   * Run 'npm install' in Terminal or GitBash
   * Run 'node liri.js' with one of the following commands
@@ -46,14 +46,14 @@ LIRI can be asked to show tweets, search for song information, search for movie 
 - Spotify NPM Package - https://www.npmjs.com/package/spotify
 - Request NPM Package - https://www.npmjs.com/package/request
 
-##Built With
+## Built With
 Sublime Text - Text Editor
 
 ## Authors
 
 Sarika Matthew
 
-####Instructors
+### Instructors
 John Dougherty
 Tom Keel - TA
 Evan Arbeitman - TA
