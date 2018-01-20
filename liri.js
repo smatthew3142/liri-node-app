@@ -193,7 +193,7 @@ function omdbData(movie){ //OMdB
       
       console.log("If you haven't watched 'Gladiator,' then you should: http://www.imdb.com/title/tt0172495/");
       
-      console.log("It's on Netflix!");
+      console.log("Go find it on Amazon, because apperently it's not on Netflix anymore...");
 
     }
 
