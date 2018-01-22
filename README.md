@@ -7,7 +7,7 @@ LIRI can be asked to show tweets, search for song information, search for movie 
 
 
 ## Getting Started
-  * Clone repo.
+  * Clone repository
   * Run 'npm install' in Terminal or GitBash
   * Run 'node liri.js' with one of the following commands
 
